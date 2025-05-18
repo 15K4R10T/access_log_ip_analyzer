@@ -44,4 +44,4 @@ File IP unik tersimpan di ip_counts.txt
 
 you can cat ip with 
 cat ip_counts.txt
-   1861 192.168.18.6
+
